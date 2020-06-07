@@ -1,6 +1,6 @@
-## This the server for ema-john simple site
+## This the server for Red Onion Restaurant site
 
-base url: https://arcane-ocean-37462.herokuapp.com/
+base url: https://intense-wildwood-44845.herokuapp.com/
 
 ### Get Route: 
 
@@ -10,9 +10,9 @@ base url: https://arcane-ocean-37462.herokuapp.com/
 
 ### Post Route
 
-/addProduct  - to post specific product
+/addFood  - to add food to the back end
 
-/placeOrder  - to post order information
+/placeOrder  - to post order information to backend.
 
 ### To run locally
 
